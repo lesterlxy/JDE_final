@@ -162,5 +162,4 @@ cython_debug/
 #.idea/
 
 # dataset files
-nhl_archive.zip
-nhl_archive/
+.kaggle/
