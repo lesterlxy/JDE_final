@@ -167,5 +167,6 @@ cython_debug/
 # dask temporary directory
 .tmp/
 
-# export directory
+# export directories
 .export/
+.export_csv/
